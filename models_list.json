@@ -1,0 +1,150 @@
+[
+    {
+        "use": true,
+        "path": "packages/bilibili-live/22/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/bilibili-live/33/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/blanc_classic/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/blanc_normal/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/blanc_swimwear/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/general/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/histoire/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/histoirenohover/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/nepgear/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/nepgear_extra/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/nepgearswim/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/nepmaid/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/nepnep/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/nepswim/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/neptune_classic/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/neptune_santa/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/noir/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/noir_classic/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/noir_santa/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/noireswim/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/vert_classic/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/vert_normal/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/HyperdimensionNeptunia/vert_swimwear/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/Potion-Maker/Pio/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/Potion-Maker/Tia/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/ShizukuTalk/shizuku-48/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/ShizukuTalk/shizuku-pajama/index.json"
+    },
+    {
+        "use": true,
+        "path": "packages/KantaiCollection/murakumo/index.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-epsilon2_1/assets/Epsilon2.1.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-haru/01/assets/haru01.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-haru/02/assets/haru02.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-hibiki/assets/hibiki.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-koharu/assets/koharu.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-miku/assets/miku.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-shizuku/assets/shizuku.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-tsumiki/assets/tsumiki.model.json"
+    },
+    {
+        "use": false,
+        "path": "packages/live2d-widget-model-z16/assets/z16.model.json"
+    }
+]
