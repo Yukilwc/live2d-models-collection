@@ -1,6 +1,11 @@
 [
     {
         "use": true,
+        "path": "packages/Terisa_live2D/model.json",
+        "heightScale": 1.2
+    },
+    {
+        "use": true,
         "path": "packages/bilibili-live/22/index.json"
     },
     {
@@ -108,7 +113,7 @@
         "path": "packages/ShizukuTalk/shizuku-pajama/index.json"
     },
     {
-        "use": true,
+        "use": false,
         "path": "packages/KantaiCollection/murakumo/index.json"
     },
     {
