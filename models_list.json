@@ -20,7 +20,7 @@
         "path": "packages/HyperdimensionNeptunia/blanc_swimwear/index.json"
     },
     {
-        "use": true,
+        "use": false,
         "path": "packages/HyperdimensionNeptunia/general/index.json"
     },
     {
